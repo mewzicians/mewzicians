@@ -2,22 +2,24 @@
 
 <div align="center">
 
-# Hi, I'm Quan
+# Hi, I'm Quan!
 
-I build useful tools and games by directing AI coding agents, and I measure
-whether the results are actually right.
+Welcome to my page! I build useful tools and games by directing AI coding
+agents. Pleased to meet you!
 
 <p>
   <a href="https://github.com/mewzicians/hearing-compiler-case-study"><img src="assets/nav-hearing-compiler.svg" alt="Hearing Compiler"></a>
   <a href="https://github.com/mewzicians/OfficeWars"><img src="assets/nav-officewars.svg" alt="OfficeWars"></a>
   <a href="https://github.com/mewzicians/Skills-Folder"><img src="assets/nav-skills-folder.svg" alt="Skills Folder"></a>
   <a href="#how-i-work"><img src="assets/nav-how-i-work.svg" alt="How I work"></a>
+  <a href="https://www.linkedin.com/in/quan-nguyen-6999191a8"><img src="assets/nav-linkedin.svg" alt="LinkedIn"></a>
 </p>
 
 [**Hearing Compiler**](https://github.com/mewzicians/hearing-compiler-case-study)
 · [**OfficeWars**](https://github.com/mewzicians/OfficeWars)
 · [**Skills Folder**](https://github.com/mewzicians/Skills-Folder)
 · [**How I work**](#how-i-work)
+· [**LinkedIn**](https://www.linkedin.com/in/quan-nguyen-6999191a8)
 
 </div>
 
@@ -102,3 +104,8 @@ flowchart LR
 | Architecture and code | [Hearing Compiler architecture](https://github.com/mewzicians/hearing-compiler-case-study/blob/main/docs/ARCHITECTURE.md) |
 | Something to play | [OfficeWars in the browser](https://mewzicians.github.io/OfficeWars/officewarsautobattler.html) |
 | How I set up AI agents | [Skills Folder](https://github.com/mewzicians/Skills-Folder) and [Working With Agents](https://github.com/mewzicians/OfficeWars/blob/main/docs/WORKING_WITH_AGENTS.md) |
+
+## Say hi
+
+I'm happy to talk about any of these projects. Find me on
+[LinkedIn](https://www.linkedin.com/in/quan-nguyen-6999191a8).
