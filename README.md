@@ -4,20 +4,23 @@
 
 # Hi, I'm Quan!
 
-Welcome to my page! I build useful tools and games by directing AI coding
-agents. Pleased to meet you!
+I’m interested in the gap between what someone asks an AI to do and what it actually does. At Amazon, I evaluate AI agents working through multi-step tasks and using tools. Before that, I worked on conversational AI evaluation and prompt engineering through a contract supporting Meta.
+
+Outside of work, I like making things. Sometimes that’s a tool someone needs, and sometimes it’s a game I just want to play. I build with AI coding agents, but I stay responsible for the direction, decisions, and figuring out what doesn’t work.
+
+Pleased to meet you!
 
 <p>
   <a href="https://github.com/mewzicians/hearing-compiler-case-study"><img src="assets/nav-hearing-compiler.svg" alt="Hearing Compiler"></a>
-  <a href="https://github.com/mewzicians/OfficeWars"><img src="assets/nav-officewars.svg" alt="OfficeWars"></a>
   <a href="https://github.com/mewzicians/Skills-Folder"><img src="assets/nav-skills-folder.svg" alt="Skills Folder"></a>
+  <a href="https://github.com/mewzicians/OfficeWars"><img src="assets/nav-officewars.svg" alt="OfficeWars"></a>
   <a href="#how-i-work"><img src="assets/nav-how-i-work.svg" alt="How I work"></a>
   <a href="https://www.linkedin.com/in/quan-nguyen-6999191a8"><img src="assets/nav-linkedin.svg" alt="LinkedIn"></a>
 </p>
 
 [**Hearing Compiler**](https://github.com/mewzicians/hearing-compiler-case-study)
-· [**OfficeWars**](https://github.com/mewzicians/OfficeWars)
 · [**Skills Folder**](https://github.com/mewzicians/Skills-Folder)
+· [**OfficeWars**](https://github.com/mewzicians/OfficeWars)
 · [**How I work**](#how-i-work)
 · [**LinkedIn**](https://www.linkedin.com/in/quan-nguyen-6999191a8)
 
@@ -40,6 +43,18 @@ real use by one legislative staff member.
 - **Start with:** the [evaluation](https://github.com/mewzicians/hearing-compiler-case-study/blob/main/docs/EVALUATION.md),
   then the [decisions](https://github.com/mewzicians/hearing-compiler-case-study/blob/main/docs/DECISIONS.md).
 
+### Skills Folder: skills for AI coding agents
+
+<a href="https://github.com/mewzicians/Skills-Folder"><img src="assets/skills-folder.svg" alt="Skills Folder" width="560"></a>
+
+Twelve reusable skills that teach Codex or Claude Code how to plan, build,
+test, balance, and release a game with you.
+
+- **Portable:** no engine, genre, or game baked in; an optional project
+  profile points the skills at each game's own files.
+- **Tested:** every check runs in CI on Windows, macOS, and Linux.
+- **Start with:** [the 12 skills](https://github.com/mewzicians/Skills-Folder#the-12-skills).
+
 ### OfficeWars: a playable game
 
 <a href="https://github.com/mewzicians/OfficeWars"><img src="assets/officewars.svg" alt="OfficeWars" width="560"></a>
@@ -54,18 +69,6 @@ the workweek, or Chad ends the run. No install or build step.
 - **Verified:** browser checks across screen sizes and 200% text, with
   results reported Pass, Fail, Not Run, or Blocked.
 - **Start with:** [How it's built](https://github.com/mewzicians/OfficeWars#how-its-built).
-
-### Skills Folder: skills for AI coding agents
-
-<a href="https://github.com/mewzicians/Skills-Folder"><img src="assets/skills-folder.svg" alt="Skills Folder" width="560"></a>
-
-Twelve reusable skills that teach Codex or Claude Code how to plan, build,
-test, balance, and release a game with you.
-
-- **Portable:** no engine, genre, or game baked in; an optional project
-  profile points the skills at each game's own files.
-- **Tested:** every check runs in CI on Windows, macOS, and Linux.
-- **Start with:** [the 12 skills](https://github.com/mewzicians/Skills-Folder#the-12-skills).
 
 ## How I work
 
