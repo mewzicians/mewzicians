@@ -33,8 +33,9 @@ Pleased to meet you!
 <a href="https://github.com/mewzicians/hearing-compiler-case-study"><img src="assets/hearing-compiler.svg" alt="Hearing Compiler" width="560"></a>
 
 A Mac app that turns multi-hour public hearings into reviewable,
-source-linked notes, so the reviewer only listens where it matters. It's in
-real use by one legislative staff member.
+source-linked notes, so the reviewer only listens where it matters. I built
+it for a friend on a legislative internship who was spending hours listening
+to hearings, and she uses it in her real work.
 
 - **Evidence over trust:** code locates every quote the AI gives (232 of 233 on
   a fresh hearing), and flag-only checks can add ⚠ but never change a value.
