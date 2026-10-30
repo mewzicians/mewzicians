@@ -6,7 +6,7 @@
 
 I’m interested in the gap between what someone asks an AI to do and what it actually does. At Amazon, I evaluate AI agents working through multi-step tasks and using tools. Before that, I worked on conversational AI evaluation and prompt engineering through a contract supporting Meta.
 
-Outside of work, I like making things. Sometimes that’s a tool someone needs, and sometimes it’s a game I just want to play. I build with AI coding agents, but I stay responsible for the direction, decisions, and figuring out what doesn’t work.
+Outside of work, I like making things. Sometimes that’s a tool someone needs, and sometimes it’s a game I just want to play. I build with AI coding agents, but I stay responsible for the directions and decisions!
 
 Pleased to meet you!
 
